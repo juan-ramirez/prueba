@@ -7,6 +7,6 @@
  *
  * @author s107e11
  */
-public class Prueba {
-    public static int tamano;
+public class ClaseOtra {
+    
 }
